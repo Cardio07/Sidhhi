@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#a1{
+    display: flex;
+}
+#a3{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 600px;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 40px 40px 40px 40px;
+}
+#a4{
+    margin-left: 15%;
+    margin-top: 10%;
+}
+#a6{
+    margin-left: 40%;
+}
+#b1{
+    display: flex;
+}
+#b3{
+    margin-left: 20px;
+}
+#b4{
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: Verdana;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}
+#b6{
+    margin-left: 40px;
+}
+#b7{
+    margin-left: 40px;
+    font-size: 14px;
+    font-family: Verdana;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}

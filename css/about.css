@@ -1,0 +1,112 @@
+body {
+
+    background-color: rgb(23, 22, 22);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+* {
+    color: white;
+}
+
+#head {
+    margin-top: 10px;
+}
+
+#head {
+    display: block;
+}
+
+#nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    margin: -8px;
+    height: 55px;
+}
+
+#logo {
+    display: flex;
+    margin-left: 25px;
+
+}
+
+#logo #image {
+    width: 50px;
+    margin-right: 25px;
+
+}
+
+#logo h1 {
+    margin-top: 14px;
+}
+
+#attribute ul {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 25px;
+    margin-top: 14px;
+
+}
+
+#attribute ul li {
+    list-style: none;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+#attribute ul li a {
+    text-decoration: none;
+}
+
+#attribute ul li a:hover {
+    font-weight: bold;
+
+}
+
+
+#contain {
+    margin: 0px;
+    padding: 0px;
+}
+
+#simg {
+    text-align: center;
+}
+
+#sirimg {
+    border: solid white 2px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+#msg {
+    font-size: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    letter-spacing: 2px;
+    word-spacing: 7px;
+}
+
+#sidinfo {
+    text-align: center;
+    margin-left: 55px;
+    margin-right: 55px;
+    font-size: 22px;
+}
+
+#animal {
+    text-align: right;
+    margin-left: 55px;
+    margin-right: 55px;
+    font-size: 15px;
+}
+
+#style {
+    font-family: Algerian;
+    letter-spacing: 2px;
+}

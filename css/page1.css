@@ -1,0 +1,94 @@
+*{
+    color: white;
+    
+}
+
+#head{
+    margin: 0px;
+}
+#head{
+    display: block;
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    margin: -8px;
+    height: 55px;
+}
+
+#logo{
+    display: flex;
+    margin-left: 25px;
+
+}
+#logo #image{
+    width: 50px;
+    margin-right: 25px;
+
+}
+#logo h1{
+    margin-top: 14px;
+}
+
+#attribute ul   {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 25px;
+    margin-top: 14px;
+    
+}
+#attribute ul li{
+    list-style: none;
+    margin-left: 30px;
+    font-size: 20px;
+}
+#attribute ul li a{
+    text-decoration: none;
+}
+#attribute ul li a:hover{
+     font-weight: bold;
+  
+}
+
+
+#contain{
+    margin: 0px;
+    padding: 0px;
+}
+/* Slider CSS */
+.slider-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+.slide img {
+    width: 100%;
+    height: auto;
+}
+
+.slide-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+

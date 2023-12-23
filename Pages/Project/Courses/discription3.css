@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#a1{
+    display: flex;
+}
+#a3{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 600px;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 40px 40px 40px 40px;
+}
+#a5{
+    margin-left: 200px;
+    margin-top: 30%;
+}
+#a6{
+    margin-left: 65%;
+}
+#b1{
+    display: flex;
+}
+#b2{
+    margin-left: 20px;
+}
+#b3{
+    margin-top: 18px;
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: Verdana;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}
+#b4{
+
+}
+#b5{
+    margin-top: 10px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-family: Verdana;
+}
+#c1{
+    margin-left: 10px;
+}
